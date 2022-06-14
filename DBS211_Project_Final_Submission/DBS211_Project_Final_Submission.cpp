@@ -2,10 +2,10 @@
 ==========================================
 DBS211 FINAL PROJECT - FINAL SUBMISSION
 ==========================================
-Section Code: NII
-Group Number: 07
-Group Member#1: Maikel Mirzadegan
-Group Member#2: Maria Clara Boaretto Campos
+Section Code: 
+Group Number: 
+Group Member#1: 
+Group Member#2: 
 Group Member#3: Mengyao Liu
 ==========================================
 */
@@ -67,7 +67,6 @@ int main()
     string usr = ""; // Update with user
     string pass = ""; // Update with password
     string srv = "myoracle12c.senecacollege.ca:1521/oracle12c";
-
 
     try
     {
